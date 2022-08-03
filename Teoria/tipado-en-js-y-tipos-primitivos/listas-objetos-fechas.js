@@ -1,7 +1,6 @@
 //Listas; tambien llamadas arrays, son un conjunto de variables puestas en orden
 const lista = [1, "hola", true, undefined, null];
 const lista2 = new Array(1, "hola", true, undefined, null);
-1, "hola", true, undefined, null
 const lista3 = new Array(3);
 lista3[0] = "soy el primer elemento, index 0";
 const lista4 = [lista, lista2, lista3];
